@@ -20,7 +20,7 @@ Installation
 scTE works with python >=3.6.
 
 ```bash
-$ git clone https://github.com/JiekaiLab/scTE.git
+$ git clone https://github.com/hamidghaedi/scTE.git
 $ cd scTE
 $ python setup.py install
 ```
